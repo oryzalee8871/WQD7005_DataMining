@@ -1,0 +1,79 @@
+﻿objectid,rspomember,mill,certunit,icletdate,icdate,admin0,digitizer,source,shape_Length,shape_Area,globalid
+1,Golden Agri-Resources Ltd,Muara Kandis, ,"July 25, 2013","May 18, 2015",Indonesia,U of Wisconsin,IC,113439.010671783,109038101.523957,{612E6E37-81E6-4E03-ACD9-4133163C17C6}
+2,PT Inti Indosawit Subur,Tanjung Selamat, ,"November 5, 2014","May 26, 2015",Indonesia,U of Wisconsin,IC,72883.091793363,79084968.1033909,{256850E4-3F9F-43D1-A3C6-08BAB629C4D4}
+3,Kuala Lumpur Kepong Berhad,PT Steelindo Wahana Perkasa, ,"August 28, 2013","January 6, 2015",Indonesia,U of Wisconsin,IC,151631.212664939,188765565.476266,{9F5F4DB5-5896-4D20-806C-FAEAD359F3F3}
+4,PT Berkat Sawit Sejati,Guntung Idamnusa, ,"February 12, 2015","June 1, 2015",Indonesia,U of Wisconsin,IC,73173.1067743415,138621336.847111,{A23E2C41-9A7F-4796-A7D9-7AF9C4B0468E}
+5,Golden Agri-Resources Ltd,Bukit Perak, ,"December 2, 2014","September 23, 2015",Indonesia,U of Wisconsin,ASA 0,79389.5859157065,60330077.9126203,{6F8328D0-9584-4885-BB13-E75069EC3691}
+6,PT Inti Indosawit Subur,Gunung Melayu I, ,"November 15, 2014","September 7, 2015",Indonesia,U of Wisconsin,IC,44695.4081307009,18762292.5936107,{4A7F5D46-B0BB-486A-9FE4-3AFBE9C471F8}
+7,Golden Agri-Resources Ltd,Kenanga, ,"October 9, 2014","October 1, 2015",Indonesia,U of Wisconsin,IC,44306.4896099678,71667807.7754246,{F17DA789-65E0-4BBA-A613-53615BEDC30C}
+8,Golden Agri-Resources Ltd,Pangkalan Panji, ,"October 3, 2014","September 8, 2015",Indonesia,U of Wisconsin,IC,70420.1939090437,32968268.8955127,{E32FDB52-E79A-4531-A7CE-FBDB70036EFE}
+9,PT PP London Sumatra Indonesia Tbk,Belani Elok, ,"May 12, 2014","September 18, 2015",Indonesia,U of Wisconsin,IC,167779.552415705,171993375.381038,{6A24CB39-AA08-4320-B58D-2A45998891DE}
+10,Golden Agri-Resources Ltd,Bumi Sawit, ,"October 6, 2014","October 9, 2015",Indonesia,U of Wisconsin,IC,75009.3817309966,82615678.3478617,{0BA95DEB-7A8C-4CF3-82B1-2433ECC4E995}
+11,Socfin Group (PT Socfindo and Socfinco SA),Seumanyam, ,"September 15, 2014","October 17, 2015",Indonesia,U of Wisconsin,IC,53109.8290645052,52359984.1585955,{9F21950A-07E9-4E2F-B370-960DB8B8B978}
+12,PT Perkebunan Nusantara III,Sisumut, ,"October 11, 2011","October 15, 2015",Indonesia,U of Wisconsin,IC,85514.0346435103,96809451.6604336,{014F7AB7-6AA5-455A-A625-4F5EFA5B699B}
+13,MP Evans Group PLC,Benua Puhun, ,"August 15, 2013","June 26, 2014",Indonesia,U of Wisconsin,IC,216592.459672615,175904297.212996,{5FA93BA5-800C-49A7-9E7C-2859E137F9A0}
+14,Sime Darby Plantation Sdn Bhd,Blang Simpo, ,"April 29, 2011","May 3, 2013",Indonesia,U of Wisconsin,ASA 1,48360.2954927272,51161022.8861083,{85FBEDE2-7244-4501-A4BB-A172D0CB45B3}
+15,PT Ivo Mas Tunggal,Bumi Palma, ,"June 20, 2013","March 25, 2014",Indonesia,U of Wisconsin,IC,103401.595529962,73721100.4932828,{9D744292-76E4-4003-A8AB-1807B276D0F0}
+16,PT Ivo Mas Tunggal,Indrasakti, ,no letter,"December 4, 2013",Indonesia,U of Wisconsin,IC,272805.434884546,169979691.421737,{B3EA6690-485E-4071-8DD3-B2C30713D806}
+17,PT Swakarsa Sinarsentosa,PT Swakarsa Sinarsentosa, ,"May 9, 2012","January 10, 2013",Indonesia,U of Wisconsin,ASA 1,73674.0589563013,176432329.663066,{226F682D-2D61-4445-8C67-B28221C567B8}
+18,Wilmar International Ltd,PT Kerry Sawit Indonesia Mill 1 & 2, ,"November 2, 2010","June 18, 2011",Indonesia,U of Wisconsin,ASA 2,64435.4851021919,192260945.339203,{CF56C7A8-E620-4B97-81BE-B244D4EA765A}
+19,Kuala Lumpur Kepong Berhad,Mandau, ,"March 16, 2011","October 19, 2012",Indonesia,U of Wisconsin,ASA 1,46272.3154415119,92268426.881406,{7B216DE6-FCDE-48FE-B616-E2E7855D8D34}
+20,Sime Darby Plantation Sdn Bhd,Mustika, ,"February 6, 2013","July 3, 2013",Indonesia,U of Wisconsin,IC,129808.423002282,40325224.5708851,{5E9C077C-BBB1-45C5-96EB-C27C84589D36}
+21,Kuala Lumpur Kepong Berhad,Nilo 1, ,"April 23, 2013","May 14, 2014",Indonesia,U of Wisconsin,IC,49439.9121238844,71649018.5373919,{A75B1573-4B1B-410A-B7CD-597FA1323653}
+22,Wilmar International Ltd,PT Agronusa Investama (Sambas), ,"April 24, 2011","April 22, 2013",Indonesia,U of Wisconsin,IC,75585.7372795175,139505526.777982,{1F66C7CC-D4F9-46F0-AF06-999716E5EAD4}
+23,Kuala Lumpur Kepong Berhad,Tapung Kanan, ,"November 14, 2012","April 24, 2013",Indonesia,U of Wisconsin,ASA 1,92852.2279511218,81056032.9351497,{A6D2AF73-E392-4EA8-95A6-832A95CD2F3F}
+24,PT Smart TBK,Semilar, ,"December 27, 2012","July 22, 2013",Indonesia,U of Wisconsin,IC,59316.0761376006,166408678.93164,{2C4882CC-E9C6-4065-B0E7-89486FCA3A12}
+25,Golden Agri-Resources Ltd,Sungai Rungau, ,"November 14, 2012","August 26, 2013",Indonesia,U of Wisconsin,IC,97761.4452523633,202900111.916038,{C1DF6C5E-95F5-4580-A9F4-851DE34E8AC7}
+26,Bumitama Agri Ltd,Gunung Makmur, ,"December 20, 2013","July 21, 2014",Indonesia,U of Wisconsin,IC,105338.428513025,213197308.161732,{2F41AD29-508F-44C6-AD70-4B4707F45033}
+27,Golden Agri-Resources Ltd,Tanjung Kembiri, ,"June 14, 2013","May 21, 2014",Indonesia,U of Wisconsin,IC,156298.070041163,115512746.096528,{1088CF9E-848B-4EEF-86BD-8A01B01AF305}
+28,Kuala Lumpur Kepong Berhad,Nilo 2, ,"April 23, 2013","May 14, 2014",Indonesia,U of Wisconsin,IC,42553.9943659988,69197021.729469,{C563FBF0-524E-4398-A610-220E638EA924}
+29,PT Gawi Makmur Kalimantan,Jorong, ,"April 17, 2014","October 1, 2014",Indonesia,U of Wisconsin,IC,104428.073222249,92340694.5357486,{5CA16494-3EDB-415A-A7AB-02E564764815}
+30,Cargill Incorporated,Paku Juang, ,"March 6, 2013","January 5, 2014",Indonesia,U of Wisconsin,IC,94833.8485798522,205580428.938947,{02652688-27B7-4BEA-B734-7BFC0897839C}
+31,Golden Agri-Resources Ltd,Sungai Buaya, ,"July 1, 2013","May 2, 2014",Indonesia,U of Wisconsin,IC,449743.781474716,165762699.683564,{52BE432F-B9C2-4AA1-B0F7-C64BB98B1E10}
+32,PT Dharma Satya Nusantara,PT DSN Mill 2, ,"May 24, 2013","March 25, 2014",Indonesia,U of Wisconsin,IC,58676.6413589215,102365965.219759,{BD849D2C-47F8-42F0-9D5C-49F36B00A1D0}
+33,PT Dharma Satya Nusantara,PT DSN Mill 3, ,"July 15, 2013","March 25, 2014",Indonesia,U of Wisconsin,IC,110037.401443895,247872821.738457,{6056BFAC-A6F5-4552-AF85-D484430FFE46}
+34,PT Ivo Mas Tunggal,Samsam, ,"May 3, 2013","October 14, 2013",Indonesia,U of Wisconsin,IC,51979.4591754532,103732568.48527,{EEFE9E9A-3527-458E-9A3B-B423B83EE282}
+35,PT Perkebunan Nusantara III,Aek Raso, ,"November 9, 2011","June 30, 2014",Indonesia,U of Wisconsin,IC,28837.6445557091,35884933.8629118,{03B5BA10-9F75-4160-AF07-D3DD0D04456F}
+36,PT Sawit Sumbermas Sarana,Sulung, ,"August 15, 2012","March 19, 2013",Indonesia,U of Wisconsin,IC,90525.7005693268,204337638.082379,{FF4D7F79-40CC-472E-9B55-D40F34809295}
+37,PT Siringo Ringo,PT Siringo Ringo, ,"August 20, 2013","August 21, 2014",Indonesia,U of Wisconsin,IC,17652.7078213519,8804554.82636707,{8C00EA82-B755-4BF3-9204-E27C478A642C}
+38,PT Smart TBK,Batu Ampar, ,"December 1, 2011","November 26, 2012",Indonesia,U of Wisconsin,ASA 1,167760.532834086,153654304.680663,{985C5078-CE61-4B03-9DF3-79FA38BC8C2D}
+39,PT Tunas Baru Lampung Tbk,Tunas Baru Lampung, ,"April 20, 2012","November 1, 2013",Indonesia,U of Wisconsin,IC,50193.1946203227,55444682.4229738,{B86193DF-E52C-4BA5-B7A5-BEFA1F315B7D}
+40,PT Smart TBK,Langling, ,"October 24, 2013","August 18, 2014",Indonesia,U of Wisconsin,IC,23747.1263134291,9539112.71284778,{F5F3268B-9B7D-405A-BA2F-55B27F22CB1F}
+41,PT Smart TBK,Jelatan, ,"October 24, 2013","August 18, 2014",Indonesia,U of Wisconsin,IC,9991.14534786975,2347848.06454905,{2EA8EAB4-D47B-46C5-A896-E46DAEA7E60E}
+42,PT Smart TBK,Muara Wahau, ,"December 23, 2013","September 17, 2014",Indonesia,U of Wisconsin, ,36225.8838322646,71497065.8690668,{5DD15BA9-D919-4D8F-A686-76857218B4C1}
+43,PT Austindo Nusantara Jaya Agri,ANJ Agri Siais, ,"March 25, 2014","September 25, 2014",Indonesia,U of Wisconsin,IC,61847.9632338391,88607015.0179957,{BF8C5A26-DF89-4854-8B73-987320D08542}
+44,Wilmar International Ltd,Gersindo, ,"January 23, 2013","April 21, 2014",Indonesia,U of Wisconsin,IC,77002.519388034,66546458.6125008,{44C66F35-6FC5-413A-B572-A67C105E7F56}
+45,PT Ivo Mas Tunggal,Ujung Tanjung, ,"May 3, 2013","September 13, 2013",Indonesia,U of Wisconsin,IC,27928.4158771235,41825781.6761003,{E515AFD8-886F-41D6-958A-13AEEC15A584}
+46,PT Ivo Mas Tunggal,Libo, ,"May 3, 2013","October 30, 2013",Indonesia,U of Wisconsin,ASA 1,67105.8227926965,120776585.122499,{B2DD6B61-3D85-48F3-A588-021065A213B9}
+47,PT Inti Indosawit Subur,Peranap, ,"December 10, 2013","January 7, 2015",Indonesia,U of Wisconsin,IC,56777.2117148596,39260842.4956063,{24AAB778-F862-45D8-BC3F-DDBA53C0AF62}
+48,Bumitama Agri Ltd,Pundu Nabatindo, ,"December 20, 2013","June 19, 2014",Indonesia,U of Wisconsin,IC,184111.094604893,126858361.450959,{ED217186-D3F3-44CD-923C-A0ED3A14B2D4}
+49,PT Gawi Makmur Kalimantan,Satui, ,"April 17, 2014","January 12, 2015",Indonesia,U of Wisconsin,IC,137869.889331126,113037680.600066,{2C8F6632-CD52-4225-B70B-317B795A408F}
+50,PT Perkebunan Nusantara III,Sei Baruhur, ,"October 11, 2011","August 13, 2014",Indonesia,U of Wisconsin,IC,57414.9072422473,114886935.737343,{43792185-6C45-4AA2-AD07-47791C9278CB}
+51,PT Rimba Mujur Mahkota,Sikarakara, ,"May 5, 2014","November 7, 2014",Indonesia,U of Wisconsin,IC,69790.2629673979,56819106.2749709,{D180055D-9F34-4F91-9D3C-8829B2638F6F}
+52,Golden Agri-Resources Ltd,Sungai Merah, ,"July 1, 2013","May 2, 2014",Indonesia,U of Wisconsin,IC,249643.74002985,93527879.1037867,{05A95DDF-4E02-437B-B5AB-9F6AE2C4298C}
+53,PT Inti Indosawit Subur,Negeri Lama II, ,"December 10, 2013","April 6, 2015",Indonesia,U of Wisconsin,IC,78101.532880902,147500566.619947,{206391CA-F7B9-4B42-A7BA-F825918962EE}
+54,PT Inti Indosawit Subur,Teluk Panjie, ,"December 13, 2013","April 21, 2015",Indonesia,U of Wisconsin,IC,52621.6545109749,40252384.9344123,{6B50FD97-CD07-4A7A-B64C-758291C56F43}
+55,PT Inti Indosawit Subur,Tanah Datar, ,"December 10, 2013","May 18, 2015",Indonesia,U of Wisconsin,IC,56810.186532658,20708966.0027052,{5A0B5727-42EC-4A5C-8E2A-5A579F768479}
+56,PT Inti Indosawit Subur,Topaz, ,"December 10, 2013","March 30, 2015",Indonesia,U of Wisconsin,IC,45450.4961453759,43945673.4490404,{B132B9B2-2289-4C9F-9A6E-6F3E87675A87}
+57,PT Salim Ivomas Pratama Tbk,Sungai Bangko, ,"May 15, 2013","April 17, 2014",Indonesia,U of Wisconsin,IC,66457.561244733,78146190.6204296,{B2D8FF11-C186-406B-93D0-6535AEE962A8}
+58,PT Smart TBK,Jak Luay, ,"December 11, 2014","April 10, 2015",Indonesia,U of Wisconsin,IC,136370.183620405,173652490.434608,{F63DEEB2-9D04-4F36-91D1-5B660A1DF5DD}
+59,PT Smart TBK,Sungai Bengkal, ,"July 23, 2014","February 28, 2015",Indonesia,U of Wisconsin,IC,225624.986318851,51070622.1652853,{61BBEBF3-6A91-4E48-84B0-4A8A4458F8B5}
+60,SIPEF Group,PT Umbul Mas Wisesa, ,"April 7, 2014","March 27, 2015",Indonesia,U of Wisconsin,IC,52622.1565925169,90638734.4325272,{D06459C1-8F6A-4439-A346-DBFB07ECBEBB}
+61,Socfin Group (PT Socfindo and Socfinco SA),Aek Loba, ,"February 27, 2013","April 15, 2015",Indonesia,U of Wisconsin,IC,69708.7502439625,98544628.5435153,{1B9BADFE-9369-4312-952F-269B48F19CEA}
+62,Wilmar International Ltd,PT Daya Labuhan Indah 2, ,"October 30, 2013","October 8, 2014",Indonesia,U of Wisconsin,IC,69016.9205709437,60431318.2511921,{CDEBA147-F1F4-456F-B106-52EFCBB9AE0F}
+63,PT Salim Ivomas Pratama Tbk,Sungai Dua, ,"October 21, 2013","May 30, 2014",Indonesia,U of Wisconsin,IC,68512.2364372057,162973460.637789,{5EEC1CDD-B0DD-4E15-93C1-2C664F90514E}
+64,PT Inti Indosawit Subur,Aek Nabara, ,"December 10, 2013","March 6, 2015",Indonesia,U of Wisconsin,IC,41416.5643489325,44579188.9420153,{D5D9F013-0839-42F1-BE20-64515869CDD8}
+65,Cargill Incorporated,River View, ,"June 27, 2013","December 22, 2014",Indonesia,U of Wisconsin,IC,101061.862529114,138961024.371355,{B3C94A50-86DC-47C9-9065-1CF391EE7E16}
+66,Cargill Incorporated,Manis Mata, ,"March 6, 2013","January 5, 2014",Indonesia,U of Wisconsin,IC,160381.596970542,217610722.339113,{80ECAE44-1360-4C87-AFA9-53678459DFEF}
+67,PT Inti Indosawit Subur,Taman Raja, ,"December 10, 2013","February 16, 2015",Indonesia,U of Wisconsin,IC,52421.8618651415,90247012.7675199,{93FA6AD0-9261-4388-8F47-3FD740E88C9F}
+68,PT Smart TBK,Leidong West, ,"October 19, 2013","May 16, 2014",Indonesia,U of Wisconsin,IC,112461.216387762,98135874.9124123,{4F8C1103-E21B-4E7F-9DF1-48C592493ADA}
+69,Socfin Group (PT Socfindo and Socfinco SA),Negeri Lama, ,"February 27, 2013","March 10, 2014",Indonesia,U of Wisconsin,IC,24032.8085082233,23488311.6567046,{CD2017AA-2451-49D0-B6E5-9DCAB2737A45}
+70,Wilmar International Ltd,Buluh Cawang Plantations, ,"June 1, 2012","September 11, 2013",Indonesia,U of Wisconsin,IC,89710.9220995935,62651384.1169338,{EED9D9C6-6A20-46D9-AB02-B44E400415F6}
+71,Sime Darby Plantation Sdn Bhd,Lembiru, ,"May 13, 2011","July 3, 2014",Indonesia,U of Wisconsin,IC,80337.1411682691,205716030.624482,{4AE371B6-C859-4D51-B208-E438A499AE1F}
+72,Wilmar International Ltd,Mentaya Sawit Mas, ,"October 2, 2014","April 24, 2015",Indonesia,Greenpeace, ,67488.197379247,173677973.88872,{13B5B94F-8A06-4D3D-88A3-64FD9E4E04C2}
+73,Wilmar International Ltd,Bumi Sawit Kencana, ,"September 3, 2012","October 23, 2013",Indonesia,Greenpeace, ,107513.189928703,110931061.561394,{C4E2779B-D4B4-47C0-9E65-E16B5380770A}
+74,PT Brahma Binabakti,Brahma Binabakti, ,"August 20, 2014","May 26, 2015",Indonesia,Sawit Watch, ,85127.92448782,67082341.7079365,{F79B2AD3-5509-4CAB-9919-AB704253C97F}
+75,Goodhope Asia Holdings Ltd,Sungai Binti, ,"March 10, 2015","December 4, 2015",Indonesia,U of Wisconsin,ASA 0,54789.8873120742,154516415.193969,{8B2967F3-9F56-4370-861F-4582C3610F12}
+76,Wilmar International Ltd,Rimba Harapan Sakti, ,"February 17, 2015","December 8, 2015",Indonesia,U of Wisconsin,ASA 0,71381.7155809079,139113947.607282,{816E9DA7-8925-4978-B2B8-205EA667CFBF}
+77,Bumitama Agri Ltd,Kendawangan, ,"April 1, 2015","December 3, 2015",Indonesia,Sawit Watch, ,188296.605598892,161937112.046891,{3C268869-2444-4CB7-953C-0AD3426F482D}
+78,PT Inti Indosawit Subur,Bungo Tebo, ,"November 15, 2014","December 3, 2015",Indonesia,U of Wisconsin,ASA 0,108924.117255404,195351880.743809,{D3F8CDD7-6F0D-4D5C-809F-AC067A0B5B2B}

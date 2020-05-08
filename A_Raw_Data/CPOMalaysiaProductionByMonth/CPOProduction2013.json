@@ -1,0 +1,17 @@
+[
+{},
+{"Year": "2013"},
+{"Month": ["Jan"], "Production": ["1,288,294"]},
+{"Month": ["Feb"], "Production": ["1,188,356"]},
+{"Month": ["Mar"], "Production": ["1,211,257"]},
+{"Month": ["Apr"], "Production": ["1,272,622"]},
+{"Month": ["May"], "Production": ["1,383,735"]},
+{"Month": ["Jun"], "Production": ["1,470,648"]},
+{"Month": ["Jul"], "Production": ["1,691,916"]},
+{"Month": ["Aug"], "Production": ["1,664,249"]},
+{"Month": ["Sep"], "Production": ["2,004,238"]},
+{"Month": ["Oct"], "Production": ["1,938,430"]},
+{"Month": ["Nov"], "Production": ["1,891,132"]},
+{"Month": ["Dec"], "Production": ["1,780,262"]},
+{}
+]

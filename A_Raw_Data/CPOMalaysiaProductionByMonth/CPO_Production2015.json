@@ -1,0 +1,17 @@
+[
+{"Month": ["\u00a0"]},
+{"Month": ["\u00a0"], "Year": "2015"},
+{"Month": ["Jan"], "Production": ["1,160,687"]},
+{"Month": ["Feb"], "Production": ["1,121,628"]},
+{"Month": ["Mar"], "Production": ["1,495,151"]},
+{"Month": ["Apr"], "Production": ["1,693,425"]},
+{"Month": ["May"], "Production": ["1,810,530"]},
+{"Month": ["June"], "Production": ["1,763,667"]},
+{"Month": ["Jul"], "Production": ["1,815,634"]},
+{"Month": ["Aug"], "Production": ["2,051,000"]},
+{"Month": ["Sep"], "Production": ["1,959,064"]},
+{"Month": ["Oct"], "Production": ["2,037,466"]},
+{"Month": ["Nov"], "Production": ["1,653,946"]},
+{"Month": ["Dec"], "Production": ["1,399,383"]},
+{}
+]
