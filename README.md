@@ -7,8 +7,8 @@ This is a Data Mining course work project in fulfillment to Master's of Data Sci
 * [Introduction](#Introduction)
 * [Objectives](#Objectives)
 * [Milestone 1 - Data Aquisition & Web Crawling](#Milestone-1---Data-Aquisition-&-Web-Crawling)
-* [Milestone 2 - Store Data into Hive DataWarehouse](#Milestone-2---DataWarehouse & DataLake Implementation)
-* [Milestone 3 - Empty Placeholder]
+* [Milestone 2 - DataWarehouse & DataLake Implementation](#Milestone-2---DataWarehouse & DataLake Implementation)
+* [Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake)
 * [Milestone 4 - Empty Placeholder]
 * [Milestone 5 - Empty Placeholder]
 * [YouTube Links](#YouTube-Links)
@@ -45,40 +45,48 @@ For this project, the important datas are CPO prices, weather data and related n
 <li> Daily weather data from DarkSky API with more recent dates data (from 2018 onwards) with daily sunshine time and uv index. Data Source: https://darksky.net
 <li> Land use datasets on Oil_palm_concessions, Palm_Oil_Mills, RSPO_mills , RSPOcertified_oil_palm_supply-bases_in_Indonesia and Sarawak_oil_palm_concessions. Data Source: https://data.globalforestwatch.org
     
-## Milestone 2 - DataWarehouse & DataLake Implementation
+## Milestone-2---DataWarehouse & DataLake Implementation
 In Milestone 2 we attempted two different file storage system, one using the well establish Hadoop HDFS file system with HIVE, and second using S3 file storage system using MinIO with AWS EC2.
 
 #### 1. Store Data into Hive DataWarehouse
-<li>(1) Download Horton Sandbox in this link https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html
-<li>(2) Open the Horton Sandbox docker in Oracle VirtualBox
-<li>(3) Make sure to have a least 8GB Free RAM on your PC
-<li>(4) Sign in with default username "root" and password "hadoop", then change your password later on
-<li>(5) open Sandbox terminal with local host port 4200
-<li>(6) copy files from local machine to Sandbox using command [scp -P 2222 'DataSetPath' root@localhost:/root]
-<li>(7) Push Dataset from sandbox to Hadoop File System (HDFS) using command [hdfs dfs -put 'Sandbox DataSetPath' 'HDFS Path']
-<li>(8) Create Table in hive using below command:
-<li>    CREATE TABLE YourTableName (
-<li>    columnName1 STRING, columnName2 INT, etc ) 
-<li>    ROW FORMAT DELIMITED 
-<li>    FIELDS TERMINATED BY ','
-<li>    LOCATION 'HDFS Path which store the dataset';
-<li>(9) Check your data in table with SQL Query [SELECT * FROM YourTableName LIMIT 10] to check first 10th rows    
+<li>(1) Download Horton Sandbox in this link https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html</li>
+<li>(2) Open the Horton Sandbox docker in Oracle VirtualBox</li>
+<li>(3) Make sure to have a least 8GB Free RAM on your PC</li>
+<li>(4) Sign in with default username "root" and password "hadoop", then change your password later on</li>
+<li>(5) open Sandbox terminal with local host port 4200</li>
+<li>(6) copy files from local machine to Sandbox using command [scp -P 2222 'DataSetPath' root@localhost:/root]</li>
+<li>(7) Push Dataset from sandbox to Hadoop File System (HDFS) using command [hdfs dfs -put 'Sandbox DataSetPath' 'HDFS Path']</li>
+<li>(8) Create Table in hive using below command:</li>
+<li>   CREATE TABLE YourTableName (
+<br>   columnName1 STRING, columnName2 INT, etc ) 
+<br>   ROW FORMAT DELIMITED 
+<br>   FIELDS TERMINATED BY ','
+<br>   LOCATION 'HDFS Path which store the dataset';</li>
+<li>(9) Check your data in table with SQL Query [SELECT * FROM YourTableName LIMIT 10] to check first 10th rows</li>
 
 
 #### 2. Setup Datalake on the cloud using MinIO and AWS EC2
-<li>(1) Create an EC2 ubuntu instance on AWS, and allow port forwarding on port 9000.
-<li>(2) Setup credential on local machine to ssh into EC2 instance.
-<li>(3) Setup standalone MinIO following quickstart guide from their documentation page: https://docs.min.io/
-<li>(3) Use MinIO SDK for python to interact with MinIO datalake for bucket creation, data uploads and so on.
-<li>(4) Use AWS S3 SDK for python to query data directly from MinIO datalake using SQL statement and output into dataframe by using Panda
-
+<li>(1) Create an EC2 ubuntu instance on AWS, and allow port forwarding on port 9000.</li>
+<li>(2) Setup credential on local machine to ssh into EC2 instance.</li>
+<li>(3) Setup standalone MinIO following quickstart guide from their documentation page: https://docs.min.io/</li>
+<li>(3) Use MinIO SDK for python to interact with MinIO datalake for bucket creation, data uploads and so on.</li>
+<li>(4) Use AWS S3 SDK for python to query data directly from MinIO datalake using SQL statement and output into dataframe by using Panda</li>
+    
+## Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake
+<li> Aggregate data into single dataframe
+<li> Standardize missing data values
+<li> Remove attributes with excessive missing value 
+<li> Remove columns that are irrelevant
+<li> KNN impute missing values
+<li> Formatting of attributes types like datetime, float, category and so on
+    
     
 ## YouTube Links
 Documentation of the processes and tools are done thru presentation on video recording, then uploaded to youtube
-<li> Milestone1A & 1B - Web Scrapping https://youtu.be/m7Lqda_E3Fg
-<li> Milestone2A - Store Data into Hive Data warehouse  https://youtu.be/UUWTioegn8M
-<li> Milestone2B - Setup Datalake on the cloud using MinIO and AWS EC2  https://youtu.be/If27_zNYkx8
-    
+<li> Milestone1A & 1B - Web Scrapping https://youtu.be/m7Lqda_E3Fg</li>
+<li> Milestone2A - Store Data into Hive Data warehouse  https://youtu.be/UUWTioegn8M</li>
+<li> Milestone2B - Setup Datalake on the cloud using MinIO and AWS EC2  https://youtu.be/If27_zNYkx8</li>
+<li> Milestone3A - Access Data from MinIO and perform Data Cleaning https://youtu.be/_8dFCbop9wI</li>
     
 ## References 
 <a id="1">[1]</a> 
