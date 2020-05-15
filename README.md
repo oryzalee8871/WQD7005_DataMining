@@ -7,8 +7,8 @@ This is a Data Mining course work project in fulfillment to Master's of Data Sci
 * [Introduction](#Introduction)
 * [Objectives](#Objectives)
 * [Milestone 1 - Data Aquisition & Web Crawling](#Milestone-1---Data-Aquisition-&-Web-Crawling)
-* [Milestone 2 - DataWarehouse & DataLake Implementation](#Milestone-2---DataWarehouse & DataLake Implementation)
-* [Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake)
+* [Milestone 2 - DataWarehouse & DataLake Implementation](#Milestone-2---DataWarehouse-&-DataLake-Implementation)
+* [Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data-Cleaning-using-Data-from-DataWarehouse-&-DataLake)
 * [Milestone 4 - Empty Placeholder]
 * [Milestone 5 - Empty Placeholder]
 * [YouTube Links](#YouTube-Links)
@@ -58,10 +58,10 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 <li>(7) Push Dataset from sandbox to Hadoop File System (HDFS) using command [hdfs dfs -put 'Sandbox DataSetPath' 'HDFS Path']</li>
 <li>(8) Create Table in hive using below command:</li>
 <li>   CREATE TABLE YourTableName (
-<br>   columnName1 STRING, columnName2 INT, etc ) 
-<br>   ROW FORMAT DELIMITED 
-<br>   FIELDS TERMINATED BY ','
-<br>   LOCATION 'HDFS Path which store the dataset';</li>
+<br>&nbsp&nbsp&nbsp&nbsp   columnName1 STRING, columnName2 INT, etc ) 
+<br>&nbsp&nbsp&nbsp&nbsp   ROW FORMAT DELIMITED 
+<br>&nbsp&nbsp&nbsp&nbsp   FIELDS TERMINATED BY ','
+<br>&nbsp&nbsp&nbsp&nbsp   LOCATION 'HDFS Path which store the dataset';</li>
 <li>(9) Check your data in table with SQL Query [SELECT * FROM YourTableName LIMIT 10] to check first 10th rows</li>
 
 
