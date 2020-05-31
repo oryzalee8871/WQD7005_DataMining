@@ -1,5 +1,5 @@
 # WQD7005_DataMining 
-## Climate, News and Stock Price based Predictability on Crude Palm Oil (CPO) Commodity Price
+## Climate and News' Sentiment  based Predictability on Crude Palm Oil (CPO)Commodity Price and Production Yield
 
 This is a Data Mining course work project in fulfillment to Master's of Data Science in University of Malaya. 
 

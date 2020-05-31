@@ -1,140 +1,140 @@
-country,location,station_id
-malaysia,ALOR STAR,ws-486030
-malaysia,Bintulu,ws-964410
-malaysia,BUTTERWORTH,ws-486020
-malaysia,CAMERON HIGHLANDS,ws-486310
-malaysia,CAMERON HIGHLANDS,ws-486320
-malaysia,IPOH,ws-486250
-malaysia,Johore Bharu / Senai,ws-486790
-malaysia,Kota Bharu,ws-486150
-malaysia,Kota Kinabalu,ws-964710
-malaysia,KUALA LUMPUR,ws-486011
-malaysia,Kuala Lumpur / Subang,ws-486470
-malaysia,KUALA TRENGGANU,ws-486180
-malaysia,KUALA TRENGGANU/CLI,ws-486190
-malaysia,Kuantan,ws-486570
-malaysia,Kuching,ws-964130
-malaysia,Kudat,ws-964770
-malaysia,Labuan,ws-964650
-malaysia,Langkawi,ws-486000
-malaysia,Malacca,ws-486650
-malaysia,MERSING,ws-486021
-malaysia,MERSING,ws-486740
-malaysia,Miri,ws-964490
-malaysia,MUADZAM SHAH,ws-486490
-malaysia,NAVOCEANO (NAVY),ws-695354
-malaysia,OKHA,ws-353943
-malaysia,Penang / Bayan Lepas,ws-486010
-malaysia,PETALING JAYA,ws-486480
-malaysia,Sandakan,ws-964910
-malaysia,SEPANG,ws-486500
-malaysia,SHIP ISLAND PASS,ws-997237
-malaysia,Sibu,ws-964210
-malaysia,Sitiawan,ws-486200
-malaysia,SRI AMAN/SIMANGGA,ws-960011
-malaysia,SULTAN ABDUL AZIZ S,ws-486475
-malaysia,SULTAN ABDUL HALIM,ws-486022
-malaysia,SULTAN AZLAN SHAH,ws-486023
-malaysia,SULTAN MAHMUD,ws-486024
-malaysia,Tawau,ws-964810
-malaysia,TEMERLOH,ws-486530
-indonesia,Alor / Mali,ws-973200
-indonesia,Amahai,ws-977220
-indonesia,Ambon / Pattimura,ws-977240
-indonesia,Ampenan / Selaparang,ws-972400
-indonesia,Balikpapan / Sepinggan,ws-966330
-indonesia,Banda Aceh / Blangbintang,ws-960110
-indonesia,BANDUNG,ws-967830
-indonesia,Bandung / Husein,ws-967810
-indonesia,Banjarmasin / Syamsuddin Noor,ws-966850
-indonesia,BANYUWANGI,ws-969870
-indonesia,BATAM/HANG NADIM,ws-960870
-indonesia,Bau-Bau / Beto Ambiri,ws-971920
-indonesia,Bengkulu / Padangkemiling,ws-962530
-indonesia,Biak / Mokmer,ws-975600
-indonesia,Bima,ws-972700
-indonesia,BITUNG,ws-970160
-indonesia,BOGOR/ATANG SANJAYA,ws-967550
-indonesia,BOGOR/CITEKO,ws-967510
-indonesia,BOGOR/DERMAGA,ws-967530
-indonesia,BOGUS INDONESIA,ws-965070
-indonesia,Cilacap,ws-968050
-indonesia,CIREBON/JATIWANGI,ws-967910
-indonesia,Curug / Budiarto,ws-967390
-indonesia,Denpasar / Ngurah-Rai,ws-972300
-indonesia,DILLI/COMORO,ws-973880
-indonesia,Enarotali,ws-977800
-indonesia,Fak-Fak / Torea,ws-976300
-indonesia,Galela / Gamarmalamu,ws-974060
-indonesia,GESER,ws-977480
-indonesia,Gorontalo / Jalaluddin,ws-970480
-indonesia,Gunung Sitoli / Binaka,ws-960750
-indonesia,Jakarta / Soekarno-Hatta,ws-967429
-indonesia,Jakarta / Soekarno-Hatta,ws-967490
-indonesia,Jakarta Halim Perdanakusuma,ws-967470
-indonesia,JAKARTA/KEMAYORAN,ws-967430
-indonesia,JAKARTA/OBSERVATORY,ws-967450
-indonesia,JAKARTA/TANJUNG PRI,ws-967410
-indonesia,Jambi / Sultan Taha,ws-961950
-indonesia,Jayapura / Sentani,ws-976900
-indonesia,JAYAPURA/DOK II,ws-976980
-indonesia,Jogyakarta / Adisucipto,ws-968530
-indonesia,Kaimana / Utarom,ws-977600
-indonesia,KALIANGET (MADURA I,ws-969730
-indonesia,Kalijati,ws-967730
-indonesia,Kendari / Woltermon-Ginsidi,ws-971460
-indonesia,Kerinci / Depati Parbo,ws-962070
-indonesia,Ketapang / Rahadi Usmaman,ws-966150
-indonesia,Kokonao / Timuka,ws-977960
-indonesia,KOLAKA/POMALA,ws-971420
-indonesia,Kotabaru,ws-966950
-indonesia,KUALA BELAIT,ws-963230
-indonesia,Kupang / El Tari,ws-973720
-indonesia,Labuha / Taliabu,ws-974600
-indonesia,Larantuka,ws-973100
-indonesia,Lhokseumawe / Malikussaleh,ws-960090
-indonesia,Longbawan / Juvai Semaring,ws-965050
-indonesia,Luwuk / Bubung,ws-970860
-indonesia,Madiun / Iswahyudi,ws-968810
-indonesia,MAJENE,ws-971200
-indonesia,Malang / Abdul Rahkmansaleh,ws-969470
-indonesia,Manokwari / Rendani,ws-975300
-indonesia,MAPIA ISLAND,ws-974500
-indonesia,MASAMBA/ANDI JEMMA,ws-971260
-indonesia,Maumere / Wai Oti,ws-973000
-indonesia,Medan / Polonia,ws-960350
-indonesia,MEDAN/BELAWAN,ws-960330
-indonesia,Menado / Dr. Sam Ratulangi,ws-970140
-indonesia,Menggala / Astra Ksetra,ws-962730
-indonesia,Merauke / Mopah,ws-979800
-indonesia,Meulaboh / Cut Nyak Dhien,ws-960150
-indonesia,MOROTAI/PITU,ws-974040
-indonesia,Muaratewe / Beringin,ws-965950
-indonesia,Nabire,ws-976820
-indonesia,Namlea,ws-977000
-indonesia,NANGAPINOH,ws-965570
-indonesia,NEIRA,ws-977900
-indonesia,PACITAN,ws-968570
-indonesia,Padang / Tabing,ws-961630
-indonesia,Pakanbaru / Simpangtiga,ws-961090
-indonesia,Palangkaraya / Panarung,ws-966550
-indonesia,Palembang / Talangbetutu,ws-962210
-indonesia,PALOH,ws-965350
-indonesia,Palu / Mutiara,ws-970720
-indonesia,PANAKUKANG,ws-971840
-indonesia,Pangkalan Bun / Iskandar,ws-966450
-indonesia,Pangkalpinang / Pangkalpinang,ws-962370
-indonesia,Pontianak / Supadio,ws-965810
-indonesia,Poso / Kasiguncu,ws-970960
-indonesia,PUTUSSIBAU/PAGSUMA,ws-965650
-indonesia,Ranai / Ranai,ws-961470
-indonesia,Rengat / Japura,ws-961710
-indonesia,Rote / Baa,ws-973780
-indonesia,RUTENG/SATAR TACIK,ws-972840
-indonesia,Sabang / Cut Bau,ws-960010
-indonesia,Sabu / Tardamu,ws-973800
-indonesia,Samarinda / Temindung,ws-966070
-indonesia,Sanana,ws-976000
-indonesia,SANGKAPURA (BAWEAN,ws-969250
-indonesia,Sarmi,ws-975800
-indonesia,Saumlaki,ws-979000
+country,location,station_id,Remove
+malaysia,ALOR STAR,ws-486030,X
+malaysia,Bintulu,ws-964410,
+malaysia,BUTTERWORTH,ws-486020,
+malaysia,CAMERON HIGHLANDS,ws-486310,
+malaysia,CAMERON HIGHLANDS,ws-486320,
+malaysia,IPOH,ws-486250,
+malaysia,Johore Bharu / Senai,ws-486790,
+malaysia,Kota Bharu,ws-486150,
+malaysia,Kota Kinabalu,ws-964710,
+malaysia,KUALA LUMPUR,ws-486011,
+malaysia,Kuala Lumpur / Subang,ws-486470,
+malaysia,KUALA TRENGGANU,ws-486180,
+malaysia,KUALA TRENGGANU/CLI,ws-486190,
+malaysia,Kuantan,ws-486570,
+malaysia,Kuching,ws-964130,
+malaysia,Kudat,ws-964770,
+malaysia,Labuan,ws-964650,
+malaysia,Langkawi,ws-486000,
+malaysia,Malacca,ws-486650,
+malaysia,MERSING,ws-486021,
+malaysia,MERSING,ws-486740,
+malaysia,Miri,ws-964490,
+malaysia,MUADZAM SHAH,ws-486490,
+malaysia,NAVOCEANO (NAVY),ws-695354,
+malaysia,OKHA,ws-353943,
+malaysia,Penang / Bayan Lepas,ws-486010,
+malaysia,PETALING JAYA,ws-486480,
+malaysia,Sandakan,ws-964910,
+malaysia,SEPANG,ws-486500,
+malaysia,SHIP ISLAND PASS,ws-997237,
+malaysia,Sibu,ws-964210,
+malaysia,Sitiawan,ws-486200,
+malaysia,SRI AMAN/SIMANGGA,ws-960011,
+malaysia,SULTAN ABDUL AZIZ S,ws-486475,
+malaysia,SULTAN ABDUL HALIM,ws-486022,
+malaysia,SULTAN AZLAN SHAH,ws-486023,
+malaysia,SULTAN MAHMUD,ws-486024,
+malaysia,Tawau,ws-964810,
+malaysia,TEMERLOH,ws-486530,
+indonesia,Alor / Mali,ws-973200,X
+indonesia,Amahai,ws-977220,X
+indonesia,Ambon / Pattimura,ws-977240,X
+indonesia,Ampenan / Selaparang,ws-972400,X
+indonesia,Balikpapan / Sepinggan,ws-966330,
+indonesia,Banda Aceh / Blangbintang,ws-960110,
+indonesia,BANDUNG,ws-967830,X
+indonesia,Bandung / Husein,ws-967810,X
+indonesia,Banjarmasin / Syamsuddin Noor,ws-966850,
+indonesia,BANYUWANGI,ws-969870,X
+indonesia,BATAM/HANG NADIM,ws-960870,
+indonesia,Bau-Bau / Beto Ambiri,ws-971920,X
+indonesia,Bengkulu / Padangkemiling,ws-962530,
+indonesia,Biak / Mokmer,ws-975600,X
+indonesia,Bima,ws-972700,X
+indonesia,BITUNG,ws-970160,X
+indonesia,BOGOR/ATANG SANJAYA,ws-967550,
+indonesia,BOGOR/CITEKO,ws-967510,X
+indonesia,BOGOR/DERMAGA,ws-967530,X
+indonesia,BOGUS INDONESIA,ws-965070,X
+indonesia,Cilacap,ws-968050,X
+indonesia,CIREBON/JATIWANGI,ws-967910,X
+indonesia,Curug / Budiarto,ws-967390,X
+indonesia,Denpasar / Ngurah-Rai,ws-972300,X
+indonesia,DILLI/COMORO,ws-973880,X
+indonesia,Enarotali,ws-977800,X
+indonesia,Fak-Fak / Torea,ws-976300,X
+indonesia,Galela / Gamarmalamu,ws-974060,X
+indonesia,GESER,ws-977480,X
+indonesia,Gorontalo / Jalaluddin,ws-970480,X
+indonesia,Gunung Sitoli / Binaka,ws-960750,
+indonesia,Jakarta / Soekarno-Hatta,ws-967429,X
+indonesia,Jakarta / Soekarno-Hatta,ws-967490,X
+indonesia,Jakarta Halim Perdanakusuma,ws-967470,X
+indonesia,JAKARTA/KEMAYORAN,ws-967430,X
+indonesia,JAKARTA/OBSERVATORY,ws-967450,X
+indonesia,JAKARTA/TANJUNG PRI,ws-967410,X
+indonesia,Jambi / Sultan Taha,ws-961950,
+indonesia,Jayapura / Sentani,ws-976900,X
+indonesia,JAYAPURA/DOK II,ws-976980,X
+indonesia,Jogyakarta / Adisucipto,ws-968530,X
+indonesia,Kaimana / Utarom,ws-977600,X
+indonesia,KALIANGET (MADURA I,ws-969730,X
+indonesia,Kalijati,ws-967730,X
+indonesia,Kendari / Woltermon-Ginsidi,ws-971460,X
+indonesia,Kerinci / Depati Parbo,ws-962070,
+indonesia,Ketapang / Rahadi Usmaman,ws-966150,
+indonesia,Kokonao / Timuka,ws-977960,X
+indonesia,KOLAKA/POMALA,ws-971420,
+indonesia,Kotabaru,ws-966950,
+indonesia,KUALA BELAIT,ws-963230,
+indonesia,Kupang / El Tari,ws-973720,X
+indonesia,Labuha / Taliabu,ws-974600,X
+indonesia,Larantuka,ws-973100,X
+indonesia,Lhokseumawe / Malikussaleh,ws-960090,
+indonesia,Longbawan / Juvai Semaring,ws-965050,
+indonesia,Luwuk / Bubung,ws-970860,
+indonesia,Madiun / Iswahyudi,ws-968810,X
+indonesia,MAJENE,ws-971200,
+indonesia,Malang / Abdul Rahkmansaleh,ws-969470,X
+indonesia,Manokwari / Rendani,ws-975300,X
+indonesia,MAPIA ISLAND,ws-974500,X
+indonesia,MASAMBA/ANDI JEMMA,ws-971260,
+indonesia,Maumere / Wai Oti,ws-973000,X
+indonesia,Medan / Polonia,ws-960350,
+indonesia,MEDAN/BELAWAN,ws-960330,
+indonesia,Menado / Dr. Sam Ratulangi,ws-970140,X
+indonesia,Menggala / Astra Ksetra,ws-962730,X
+indonesia,Merauke / Mopah,ws-979800,X
+indonesia,Meulaboh / Cut Nyak Dhien,ws-960150,
+indonesia,MOROTAI/PITU,ws-974040,X
+indonesia,Muaratewe / Beringin,ws-965950,
+indonesia,Nabire,ws-976820,X
+indonesia,Namlea,ws-977000,X
+indonesia,NANGAPINOH,ws-965570,
+indonesia,NEIRA,ws-977900,X
+indonesia,PACITAN,ws-968570,X
+indonesia,Padang / Tabing,ws-961630,
+indonesia,Pakanbaru / Simpangtiga,ws-961090,
+indonesia,Palangkaraya / Panarung,ws-966550,
+indonesia,Palembang / Talangbetutu,ws-962210,
+indonesia,PALOH,ws-965350,
+indonesia,Palu / Mutiara,ws-970720,
+indonesia,PANAKUKANG,ws-971840,X
+indonesia,Pangkalan Bun / Iskandar,ws-966450,
+indonesia,Pangkalpinang / Pangkalpinang,ws-962370,
+indonesia,Pontianak / Supadio,ws-965810,
+indonesia,Poso / Kasiguncu,ws-970960,
+indonesia,PUTUSSIBAU/PAGSUMA,ws-965650,
+indonesia,Ranai / Ranai,ws-961470,X
+indonesia,Rengat / Japura,ws-961710,X
+indonesia,Rote / Baa,ws-973780,X
+indonesia,RUTENG/SATAR TACIK,ws-972840,X
+indonesia,Sabang / Cut Bau,ws-960010,X
+indonesia,Sabu / Tardamu,ws-973800,X
+indonesia,Samarinda / Temindung,ws-966070,
+indonesia,Sanana,ws-976000,X
+indonesia,SANGKAPURA (BAWEAN,ws-969250,X
+indonesia,Sarmi,ws-975800,X
+indonesia,Saumlaki,ws-979000,X
