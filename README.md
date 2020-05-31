@@ -8,8 +8,8 @@ This is a Data Mining course work project in fulfillment to Master's of Data Sci
 * [Objectives](#Objectives)
 * [Milestone 1 - Data Aquisition & Web Crawling](#Milestone-1---Data-Aquisition-&-Web-Crawling)
 * [Milestone 2 - DataWarehouse & DataLake Implementation](#Milestone-2---DataWarehouse-&-DataLake-Implementation)
-* [Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data-Cleaning-using-Data-from-DataWarehouse-&-DataLake)
-* [Milestone 4 - Empty Placeholder]
+* [Milestone-3 - Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data-Cleaning-using-Data-from-DataWarehouse-&-DataLake)
+* [Milestone 4 - Interpretation and Communication of Insights](#Milestone-4---Interpretation-and-Communication-of-Insights)
 * [Milestone 5 - Empty Placeholder]
 * [YouTube Links](#YouTube-Links)
 * [References](#References)
@@ -27,7 +27,6 @@ Source: [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)
 ## Objectives
 The primary goal of this project is to test the following hypothesis
 <li> Weather data significantly affect / correlate to palm oil production yield
-<li> Weather data significantly affect / correlate to CPO commodity prices
 <li> Palm oil industry related news sentiment significantly affect / correlate to CPO commodity prices
 
 
@@ -80,13 +79,39 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 <li> KNN impute missing values
 <li> Formatting of attributes types like datetime, float, category and so on
     
-    
+## Milestone-4---Interpretation and Communication of Insights
+<li> Load all processed data
+	1) CPO Price
+	2) Monthly CPO Production
+	3) Weather Data
+	4) News Title
+<li> Minor data wrangling for filtering and standardizing column names and type
+<li> Exploration on all four datasets by using plots and visualization
+<li> Feature Transfomaiton
+	1) Compute moving average of CPO prices as additiona feature
+	2) Compute monthly production change from CPO production data
+	3) Log scale Rain fall attribute from Weather Data to make the values smaller
+	4) Group aggregate weather data by month and pivot table using weather station id
+	5) Extract sentiment score from news_tile using VaderSentiment package 
+<li> Merge data into two major dataframe
+	1) DF1 - Merge CPO Price, Production Data, and News Sentiment
+	2) DF2 - Merge Production Data with Weather Data
+<li> Modeling
+	1) LSTM for predicting CPO prices using DF1
+	2) Ensemble of Support Vector Regressor, Random Forest Regressor and KNeighbour Regressor used for predicting CPO production using DF2
+<li> Feature Importance
+	1) LSTM feature importance obtained by pertubing values in each columns by setting them to zero
+	2) Ensemble feature importance obtained using permutation importannce package by SKLearn
+
+
+
 ## YouTube Links
 Documentation of the processes and tools are done thru presentation on video recording, then uploaded to youtube
 <li> Milestone1A & 1B - Web Scrapping https://youtu.be/m7Lqda_E3Fg</li>
 <li> Milestone2A - Store Data into Hive Data warehouse  https://youtu.be/UUWTioegn8M</li>
 <li> Milestone2B - Setup Datalake on the cloud using MinIO and AWS EC2  https://youtu.be/If27_zNYkx8</li>
 <li> Milestone3A - Access Data from MinIO and perform Data Cleaning https://youtu.be/jmdmxU8j08E</li>
+<li> Milestone4A - Modeling CPO Prices and Production Yield https://youtu.be/fMsymKdOsRo</li>
     
 ## References 
 <a id="1">[1]</a> 
