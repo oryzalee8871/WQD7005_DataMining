@@ -84,24 +84,24 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 	1) CPO Price
 	2) Monthly CPO Production
 	3) Weather Data
-	4) News Title
-<li> Minor data wrangling for filtering and standardizing column names and type
-<li> Exploration on all four datasets by using plots and visualization
+	4) News Title</li>
+<li> Minor data wrangling for filtering and standardizing column names and type</li>
+<li> Exploration on all four datasets by using plots and visualization</li>
 <li> Feature Transfomaiton
 	1) Compute moving average of CPO prices as additiona feature
 	2) Compute monthly production change from CPO production data
 	3) Log scale Rain fall attribute from Weather Data to make the values smaller
 	4) Group aggregate weather data by month and pivot table using weather station id
-	5) Extract sentiment score from news_tile using VaderSentiment package 
+	5) Extract sentiment score from news_tile using VaderSentiment package </li>
 <li> Merge data into two major dataframe
 	1) DF1 - Merge CPO Price, Production Data, and News Sentiment
-	2) DF2 - Merge Production Data with Weather Data
+	2) DF2 - Merge Production Data with Weather Data</li>
 <li> Modeling
 	1) LSTM for predicting CPO prices using DF1
-	2) Ensemble of Support Vector Regressor, Random Forest Regressor and KNeighbour Regressor used for predicting CPO production using DF2
+	2) Ensemble of Support Vector Regressor, Random Forest Regressor and KNeighbour Regressor used for predicting CPO production using DF2</li>
 <li> Feature Importance
 	1) LSTM feature importance obtained by pertubing values in each columns by setting them to zero
-	2) Ensemble feature importance obtained using permutation importannce package by SKLearn
+	2) Ensemble feature importance obtained using permutation importannce package by SKLearn</li>
 
 
 ## Milestone-5---App Deployment
