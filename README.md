@@ -104,6 +104,9 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 	2) Ensemble feature importance obtained using permutation importannce package by SKLearn
 
 
+## Milestone-5---App Deployment
+<li> Kivy Deployment on Windows using PyInstaller
+![](resources/app.gif)
 
 ## YouTube Links
 Documentation of the processes and tools are done thru presentation on video recording, then uploaded to youtube
@@ -112,6 +115,7 @@ Documentation of the processes and tools are done thru presentation on video rec
 <li> Milestone2B - Setup Datalake on the cloud using MinIO and AWS EC2  https://youtu.be/If27_zNYkx8</li>
 <li> Milestone3A - Access Data from MinIO and perform Data Cleaning https://youtu.be/jmdmxU8j08E</li>
 <li> Milestone4A - Modeling CPO Prices and Production Yield https://youtu.be/fMsymKdOsRo</li>
+<li> Milestone5A - Kivy App Deployment on Windows https://youtu.be/njDbiQFAbGM</li>
     
 ## References 
 <a id="1">[1]</a> 
