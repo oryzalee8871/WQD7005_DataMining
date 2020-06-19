@@ -72,34 +72,34 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 <li>(4) Use AWS S3 SDK for python to query data directly from MinIO datalake using SQL statement and output into dataframe by using Panda</li>
     
 ## Milestone-3---Data Cleaning using Data from DataWarehouse & DataLake
-<li> Aggregate data into single dataframe
-<li> Standardize missing data values
-<li> Remove attributes with excessive missing value 
-<li> Remove columns that are irrelevant
-<li> KNN impute missing values
-<li> Formatting of attributes types like datetime, float, category and so on
+<li> Aggregate data into single dataframe</li>
+<li> Standardize missing data values</li>
+<li> Remove attributes with excessive missing value </li>
+<li> Remove columns that are irrelevant</li>
+<li> KNN impute missing values</li>
+<li> Formatting of attributes types like datetime, float, category and so on</li>
     
 ## Milestone-4---Interpretation and Communication of Insights
-<li> Load all processed data
+<li> Load all processed data</li>
 	1) CPO Price
 	2) Monthly CPO Production
 	3) Weather Data
 	4) News Title
-<li> Minor data wrangling for filtering and standardizing column names and type
-<li> Exploration on all four datasets by using plots and visualization
-<li> Feature Transfomaiton
+<li> Minor data wrangling for filtering and standardizing column names and type</li>
+<li> Exploration on all four datasets by using plots and visualization</li>
+<li> Feature Transfomaiton</li>
 	1) Compute moving average of CPO prices as additiona feature
 	2) Compute monthly production change from CPO production data
 	3) Log scale Rain fall attribute from Weather Data to make the values smaller
 	4) Group aggregate weather data by month and pivot table using weather station id
 	5) Extract sentiment score from news_tile using VaderSentiment package 
-<li> Merge data into two major dataframe
+<li> Merge data into two major dataframe</li>
 	1) DF1 - Merge CPO Price, Production Data, and News Sentiment
 	2) DF2 - Merge Production Data with Weather Data
-<li> Modeling
+<li> Modeling</li>
 	1) LSTM for predicting CPO prices using DF1
 	2) Ensemble of Support Vector Regressor, Random Forest Regressor and KNeighbour Regressor used for predicting CPO production using DF2
-<li> Feature Importance
+<li> Feature Importance</li>
 	1) LSTM feature importance obtained by pertubing values in each columns by setting them to zero
 	2) Ensemble feature importance obtained using permutation importannce package by SKLearn
 
