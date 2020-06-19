@@ -10,7 +10,7 @@ This is a Data Mining course work project in fulfillment to Master's of Data Sci
 * [Milestone 2 - DataWarehouse & DataLake Implementation](#Milestone-2---DataWarehouse-&-DataLake-Implementation)
 * [Milestone-3 - Data Cleaning using Data from DataWarehouse & DataLake](#Milestone-3---Data-Cleaning-using-Data-from-DataWarehouse-&-DataLake)
 * [Milestone 4 - Interpretation and Communication of Insights](#Milestone-4---Interpretation-and-Communication-of-Insights)
-* [Milestone 5 - Empty Placeholder]
+* [Milestone 5 - App Deployment](#Milestone-5---App-Deployment)
 * [YouTube Links](#YouTube-Links)
 * [References](#References)
 
