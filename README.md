@@ -107,7 +107,7 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 ## Milestone-5---App Deployment
 <li> Kivy Deployment on Windows using PyInstaller</li><p>
 <p>
-    <img src="https://media0.giphy.com/media/daJ3rAP7r5U3ziSYtV/giphy.gif"/>
+    <img src="https://media0.giphy.com/media/daJ3rAP7r5U3ziSYtV/giphy.gif" width="400%" />
 </p>
 
 ## YouTube Links
