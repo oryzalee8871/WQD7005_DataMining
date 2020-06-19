@@ -105,8 +105,8 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 
 
 ## Milestone-5---App Deployment
-<li> Kivy Deployment on Windows using PyInstaller
-![](resources/app.gif)
+<li> Kivy Deployment on Windows using PyInstaller</li>
+![](app.gif)
 
 ## YouTube Links
 Documentation of the processes and tools are done thru presentation on video recording, then uploaded to youtube
