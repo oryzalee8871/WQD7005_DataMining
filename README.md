@@ -106,7 +106,7 @@ In Milestone 2 we attempted two different file storage system, one using the wel
 
 ## Milestone-5---App Deployment
 <li> Kivy Deployment on Windows using PyInstaller</li>
-![app](https://raw.githubusercontent.com/oryzalee8871/WQD7005_DataMining/master/app.gif)
+![app](app.gif)
 
 ## YouTube Links
 Documentation of the processes and tools are done thru presentation on video recording, then uploaded to youtube
