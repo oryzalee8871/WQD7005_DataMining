@@ -20,7 +20,7 @@ This is a Data Mining course work project in fulfillment to Master's of Data Sci
 &emsp;&emsp;According to Santhia (2017)[[1]](#1), the top palm oil producing nations in 2016  are Indonesia, leading by 34.52 mil MT of palm oil, followed by Malaysia at 17.32 mil MT where the two countries made up 87% of the total palm oil production market. Palm oil trees, like most plants are susceptible to climate changes and local atmospheric variables. As investigated by Oettli et al (2018)[[2]](#2), woittiez et al (2017)[[3]](#3) and Kamil & Omar (2016)[[4]](#4), attributes such as rainfall, temperature, relative humidity, and net solar radiation have shown to affect the yield of oil palm fresh fruit bunches. 
 <br><br>
 &emsp;&emsp;The largest derivatives market for CPO is Bursa Malaysian Derivatives. The prices are affected mainly by demand and supply of CPO, and other external factors such as the prices of cooking oil and oil seeds all around the world. Climate variability have a direct impact on the supply of CPO, thus indirectly affect the price of CPO futures. Since Indonesia and Malaysia already have 87% of the production market cap, any climate changes in these two neighbouring countries would surely have some sort of impact on the CPO yield, and indirectly so on the CPO futures. 
-
+![app](app.gif)
 ![OilPalmPlantationMap](https://raw.githubusercontent.com/oryzalee8871/WQD7005_DataMining/master/A_Raw_Data/GlobalForestWatchDataset/Map/PalmOilPlantationMap.PNG)
 Source: [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)
 
