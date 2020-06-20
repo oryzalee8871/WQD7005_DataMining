@@ -116,6 +116,7 @@ Documentation of the processes and tools are done thru presentation on video rec
 <li> Milestone2A - Store Data into Hive Data warehouse  https://youtu.be/UUWTioegn8M</li>
 <li> Milestone2B - Setup Datalake on the cloud using MinIO and AWS EC2  https://youtu.be/If27_zNYkx8</li>
 <li> Milestone3A - Access Data from MinIO and perform Data Cleaning https://youtu.be/jmdmxU8j08E</li>
+<li> Milestone3B - Access HIve DataBase from from Jupyter Notebook using PyHive https://www.youtube.com/watch?v=edC7DZfKHbg</li>
 <li> Milestone4A - Modeling CPO Prices and Production Yield https://youtu.be/fMsymKdOsRo</li>
 <li> Milestone5A - Kivy App Deployment on Windows https://youtu.be/njDbiQFAbGM</li>
 <li> Milestone5B - Streamlit WebApp Deployment on Windows https://www.youtube.com/watch?v=c3Nf4a9cftQ</li>
