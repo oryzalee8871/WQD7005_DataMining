@@ -118,6 +118,7 @@ Documentation of the processes and tools are done thru presentation on video rec
 <li> Milestone3A - Access Data from MinIO and perform Data Cleaning https://youtu.be/jmdmxU8j08E</li>
 <li> Milestone4A - Modeling CPO Prices and Production Yield https://youtu.be/fMsymKdOsRo</li>
 <li> Milestone5A - Kivy App Deployment on Windows https://youtu.be/njDbiQFAbGM</li>
+<li> Milestone5B - Streamlit WebApp Deployment on Windows https://www.youtube.com/watch?v=c3Nf4a9cftQ</li>
     
 ## References 
 <a id="1">[1]</a> 
